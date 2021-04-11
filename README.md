@@ -1,7 +1,7 @@
 # Credit Card Risk Assessment
 
 <hr>
-This particular project is implemented using <b>XgBoost Algorithm</b>
+This project is implemented using <b>XgBoost Algorithm</b>
 
 ### Data
 Dataset is taken from <a href = "https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset">here </a>
